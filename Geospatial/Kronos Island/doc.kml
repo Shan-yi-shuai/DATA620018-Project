@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Kronos Island</name>
+	<Icon>
+		<href>files/Kronos Island Image.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>36.40063285983269</north>
+		<south>35.70575966895455</south>
+		<east>26.04106821559143</east>
+		<west>23.44340038900803</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
